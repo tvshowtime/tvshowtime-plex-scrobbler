@@ -145,6 +145,10 @@ Or browse the github issues list to review old bugs or log a new problem.  See h
 
 Contributing
 -----------
+
 Any feedback on the performance on a MS Windows installation would be appreciated. I do not have ability to test plex-tvst-scrobbler on this platform. Please log an issue or a pull request with any fixes.
 
+Thanks
+------
 
+The project https://github.com/jesseward/plex-lastfm-scrobbler was used as the base of the code.
